@@ -1,2 +1,9 @@
-# dio-desafio-git-gitHub-primeiro-repositório
-Repositório do desafio de projeto GitHub
+# Primeiro repositório no GitHub
+
+Repositório do desafio de projeto GitHub :open_file_folder:
+
+
+
+- Nome: Marla Ingridh :sunglasses:
+
+  
